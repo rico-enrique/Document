@@ -1,2 +1,2 @@
 # Document
-Isinya adalah dokumen
+Laporan Pembelajaran daring saya
